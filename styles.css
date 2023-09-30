@@ -1,0 +1,224 @@
+.black_box {
+    background-color: black;
+    height: 25px;
+    width: auto;
+}
+
+
+body {
+    background-color: rgb(179, 179, 181);
+}
+
+ul {
+    text-align: center;
+    padding-top: 0%;
+}
+
+li {
+    display: inline;
+    margin: 0 35px;
+    padding-top: 0px;
+}
+
+.header {
+    background-color: #EFA3A3;
+    width: auto;
+    padding-top: 0px;
+}
+.header ul {
+    font-family: inter;
+}
+h1.qui_goute_tres_bon,
+h3.qui_goute_tres_bon {
+    color: white;
+    font-family: adamina;
+    text-align: center;
+}
+.items {
+    background-color: rgb(255, 255, 255);
+    padding-left: 165px;
+    padding-right: 165px;
+}
+
+.carousel-inner {
+    padding-top: 30px;
+    padding-bottom: 90px;
+}
+
+.cinnamon_roll {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.strawberry_donut {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.poppy_croissant {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blueberry_muffin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image1 {
+    max-width: 100%;
+    max-height: 100%;
+}
+.cinnamon_rolls {
+    font-size: 20px;
+    padding-left: 20px;
+    max-width: 600px;
+}
+.image2 {
+    max-width: 100%;
+    max-height: 100%;
+    float: right;
+}
+.strawberry_donuts {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 600px;
+}
+.image3 {
+    max-width: 100%;
+    max-height: 100%;
+}
+.poppy_croissants {
+    font-size: 20px;
+    padding-left: 20px;
+    max-width: 600px;
+}
+.image4 {
+    max-width: 100%;
+    max-height: 100%;
+    float: right;
+}
+.blueberry_muffins {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 600px;
+}
+.bb {
+    margin-left: 300px;
+}
+.b1 {
+    margin-left: 500px;
+}
+.b2 {
+    margin-left: 700px;
+}
+
+.purchase_now {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #EFA3A3;
+}
+
+.purchase {
+    font-size: 18px;
+    padding-left: 20px;
+}
+.purchase_button {
+    font-size: 18px;
+    background-color: #EFA3A3;
+    padding-left: 20px;
+}
+
+
+.footer {
+    background-color: #000;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.footer .latest_tweets h2{
+    font-family: fira sans;
+}
+.footer .instagram_feed h2{
+    font-family: fira sans;
+}
+.footer .join_the_club h2{
+    font-family: fira sans;
+}
+.basic_info {
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+
+
+.insta_headline {
+    padding-top: 20px;
+    padding-left: 40px;
+    justify-content: center;    
+}
+.tweet_headline {
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.join_headline {
+    padding-top: 20px;
+    padding-left: 40px;    
+}
+
+.tweet1 {
+    display: flex;
+    flex-direction: row;
+}
+.tweet2 {
+    display: flex;
+    flex-direction: row;
+}
+.tweeter {
+    padding-top: 10px;
+    padding-bottom: 60px;
+    padding-right: 5px;
+}
+
+.basic_info {
+    max-width: 400px;
+}
+.latest_tweets {
+    max-width: 400px;
+}
+.instagram_feed {
+    max-width: 400px;
+}
+.join_the_club {
+    max-width: 400px;
+}
+
+.row1 {
+    padding-bottom: 10px;
+}
+
+
+.part4 {
+    padding-left: 20px;
+}
+
+.make_it_align {
+    display: flex;
+    flex-direction: row;
+}
+
+.join {
+    background-color: rgb(105, 255, 105);
+    border-color: rgb(105, 255, 105);
+    border-style: hidden;
+    color: rgb(114, 113, 113); 
+}
+.email_textbox {
+    max-height: 35px;
+    color: rgb(105, 104, 104);
+}
